@@ -2,6 +2,9 @@
 
 This repository includes notes, diagrams, and AWS CLI examples created during my study of the **"[NEW] Ultimate AWS Certified Cloud Practitioner CLF-C02 (2025)"** course by Stephane Maarek on Udemy.
 
+#AWS  #CloudSecurity  #AWSCertification  #CloudComputing  #IAM  #CyberSecurity  #CloudArchitect  
+#GRC  #LearningInPublic  #WomenInCloud
+
 ## 📘 What I Learned
 - AWS core services: EC2, S3, Lambda, IAM, RDS
 - Shared Responsibility Model
