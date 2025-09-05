@@ -9,8 +9,11 @@ A collection of Python projects I’ve built to practice and showcase my skills 
 1. 📖 PDFReader
 
 A Python tool that opens a PDF, extracts the text, and reads it aloud using text-to-speech. Built with PyPDF2, pyttsx3, and tkinter.
-	•	Features: File dialog selection, multi-page reading, text-to-speech conversion.
-	•	Future ideas: GUI interface, export to text, keyword highlighting.
+		
+
+Features: File dialog selection, multi-page reading, text-to-speech conversion.
+
+Future ideas: GUI interface, export to text, keyword highlighting.
 
 ⸻
 
