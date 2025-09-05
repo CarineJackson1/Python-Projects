@@ -1,39 +1,53 @@
-# ☁️ AWS Cloud Foundations – CLF-C02 2025
+🐍 Python Projects
 
-This repository includes notes, diagrams, and AWS CLI examples created during my study of the **"[NEW] Ultimate AWS Certified Cloud Practitioner CLF-C02 (2025)"** course by Stephane Maarek on Udemy.
+A collection of Python projects I’ve built to practice and showcase my skills in automation, data handling, cybersecurity, and app development. Each project has its own folder with code, documentation, and examples.
 
-#AWS  #CloudSecurity  #AWSCertification  #CloudComputing  #IAM  #CyberSecurity  #CloudArchitect  
-#GRC  #LearningInPublic  #WomenInCloud
+⸻
 
-## 📘 What I Learned
-- AWS core services: EC2, S3, Lambda, IAM, RDS
-- Shared Responsibility Model
-- Billing, pricing, and cloud economics
-- AWS security, encryption, and compliance (HIPAA, GDPR, SOC 2)
-- AWS Global Infrastructure: Regions, AZs, Edge Locations
+📂 Projects
 
-## 🛠 Tools & Topics Covered
-- **AWS Management Console**
-- **AWS CLI basics**
-- **IAM policies and best practices**
-- **Cloud computing concepts**
-- **Security models & access controls**
+1. 📖 PDFReader
 
-## 📂 Repository Contents
+A Python tool that opens a PDF, extracts the text, and reads it aloud using text-to-speech. Built with PyPDF2, pyttsx3, and tkinter.
+	•	Features: File dialog selection, multi-page reading, text-to-speech conversion.
+	•	Future ideas: GUI interface, export to text, keyword highlighting.
 
-| File/Folder | Description |
-|-------------|-------------|
-| `aws_notes.md` | Personal notes summarizing key concepts by domain |
-| `cli_examples/` | Sample AWS CLI commands with flags and use cases |
-| `diagrams/` | Visual breakdowns of AWS core architecture |
-| `practice_quizzes/` | CLF-C02-style questions with answers |
-| `glossary.md` | Important terms and acronyms |
+⸻
 
-## 🎯 Certification Goal
-This repository supports my preparation for the **AWS Certified Cloud Practitioner – CLF-C02**, aligning with cloud security and GRC roles.
+(You can add more as you build them — for example Nmap dashboard, automation scripts, data analysis tools, etc.)
 
-## 👩‍💻 Author
-Carine Jackson – [LinkedIn](https://www.linkedin.com/in/carinejackson) | [GitHub](https://github.com/CarineJackson1)
+⸻
 
-## 📜 License
-MIT
+🛠️ Tech Stack
+	•	Python 3.9+
+	•	Libraries: PyPDF2, pyttsx3, tkinter, pandas, requests, etc. (varies by project)
+
+⸻
+
+🚀 How to Use
+
+Clone the repository:
+
+git clone https://github.com/your-username/python-projects.git
+cd python-projects
+
+Navigate into a project folder (e.g., PDFReader) and follow its instructions:
+
+cd PDFReader
+python pdf_reader.py
+
+
+⸻
+
+🔮 Future Additions
+	•	Cybersecurity tools (SOC project, Nmap dashboard)
+	•	Data analytics scripts (SQL + Python)
+	•	Automation utilities
+
+⸻
+
+📜 License
+
+This repository is licensed under the MIT License.
+
+⸻
